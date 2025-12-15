@@ -1,27 +1,32 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Muluneh%20Babush&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Telegram%20Bots%20%7C%20Web%20Development&descAlignY=65" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Muluneh%20Babush&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Telegram%20Bots%20%7C%20Web%20Development&descAlignY=65"
+    width="100%"
+  />
 </div>
 
 <h2 align="center">👋 Hi, I’m Muluneh</h2>
 
 <p align="center">
-Python Developer based in Ethiopia.<br/>
-I build automation tools, Telegram bots, and clean web applications.
+  Python Developer based in Ethiopia.<br/>
+  I build automation tools, Telegram bots, and clean web applications.
 </p>
 
 ---
 
 ## About Me
--  Focused on **Python**, **Telegram Bot development**, and **web applications**
+
+- Focused on **Python**, **Telegram Bot development**, and **web applications**
 - Automate repetitive tasks to save time and reduce manual work
--  Build responsive front-end interfaces and simple backends
--  Continuously learning and improving through real projects
+- Build responsive front-end interfaces and simple backends
+- Continuously learning and improving through real projects
 
 ---
 
 ## 🛠️ Technologies I Use
 
 <div align="center">
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -33,64 +38,72 @@ I build automation tools, Telegram bots, and clean web applications.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 </div>
 
 ---
 
 ## Most Used Languages
+
 Based on recent projects and active repositories
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muluneh819-dotcom&layout=compact&theme=radical" width="60%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muluneh819-dotcom&layout=compact&theme=radical"
+    width="60%"
+  />
 </div>
 
 ---
 
-##  What I Can Help With
--  Telegram bots for orders, bookings, and notifications
--  Python automation scripts and data scraping
--  Front-end web interfaces (HTML, CSS, JavaScript)
--  Simple backend logic using Django
+## What I Can Help With
+
+- Telegram bots for orders, bookings, and notifications
+- Python automation scripts and data scraping
+- Front-end web interfaces (HTML, CSS, JavaScript)
+- Simple backend logic using Django
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
-|---------|------------|-------|
-|  **Telegram Business Bot** | Automates orders and booking via Telegram | Python, TeleBot |
-|  **Python Automation Scripts** | Scripts for scraping and task automation | Python, Selenium |
-|  **Web Development Project** | Responsive web layouts | HTML, CSS, JavaScript |
+|-------|------------|------|
+| **Telegram Business Bot** | Automates orders and booking via Telegram | Python, TeleBot |
+| **Python Automation Scripts** | Scripts for scraping and task automation | Python, Selenium |
+| **Web Development Project** | Responsive web layouts | HTML, CSS, JavaScript |
 
 ---
 
-##  GitHub Activity
+## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muluneh819-dotcom&show_icons=true&theme=radical&hide_rank=true" width="80%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=muluneh819-dotcom&show_icons=true&theme=radical&hide_rank=true"
+    width="80%"
+  />
 </div>
 
 ---
 
-##  Contact Me
+## Contact Me
 
 <div align="center">
 
 <a href="https://www.freelancer.com/u/mulunehb1">
-<img src="https://img.shields.io/badge/Freelancer-Hire_Me-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Freelancer-Hire_Me-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muluneh23">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:babushmuluneh63@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://t.me/Msb23">
-<img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram"/>
 </a>
 
 </div>
+
