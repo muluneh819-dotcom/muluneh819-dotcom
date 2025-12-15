@@ -11,11 +11,11 @@ I build automation tools, Telegram bots, and clean web applications.
 
 ---
 
-## 🧠 About Me
-- 💻 Focused on **Python**, **Telegram Bot development**, and **web applications**
-- 🤖 Automate repetitive tasks to save time and reduce manual work
-- 🌐 Build responsive front-end interfaces and simple backends
-- 📚 Continuously learning and improving through real projects
+## About Me
+-  Focused on **Python**, **Telegram Bot development**, and **web applications**
+- Automate repetitive tasks to save time and reduce manual work
+-  Build responsive front-end interfaces and simple backends
+-  Continuously learning and improving through real projects
 
 ---
 
@@ -35,7 +35,7 @@ I build automation tools, Telegram bots, and clean web applications.
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages
 Based on recent projects and active repositories
 
 <div align="center">
@@ -44,25 +44,25 @@ Based on recent projects and active repositories
 
 ---
 
-## 🚀 What I Can Help With
-- 🤖 Telegram bots for orders, bookings, and notifications
-- ⚙️ Python automation scripts and data scraping
-- 🌐 Front-end web interfaces (HTML, CSS, JavaScript)
-- 🧩 Simple backend logic using Django
+##  What I Can Help With
+-  Telegram bots for orders, bookings, and notifications
+-  Python automation scripts and data scraping
+-  Front-end web interfaces (HTML, CSS, JavaScript)
+-  Simple backend logic using Django
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| 🤖 **Telegram Business Bot** | Automates orders and booking via Telegram | Python, TeleBot |
-| ⚡ **Python Automation Scripts** | Scripts for scraping and task automation | Python, Selenium |
-| 🌐 **Web Development Project** | Responsive web layouts | HTML, CSS, JavaScript |
+|  **Telegram Business Bot** | Automates orders and booking via Telegram | Python, TeleBot |
+|  **Python Automation Scripts** | Scripts for scraping and task automation | Python, Selenium |
+|  **Web Development Project** | Responsive web layouts | HTML, CSS, JavaScript |
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=muluneh819-dotcom&show_icons=true&theme=radical&hide_rank=true" width="80%" />
@@ -70,7 +70,7 @@ Based on recent projects and active repositories
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 <div align="center">
 
